@@ -1,0 +1,22 @@
+Bairros bons: Itaim bibi, Jardim Paulista, Jardins
+Bairros secundarios:
+
+Ruins Itaim: Rua Tabapua, Joaquim Floriano, João cachoeira.
+Ruins JArdins: Rua Augusta
+
+Regras: 
+. Abaixo de 10k/m2 (if price/size < 10k)
+. Até 900k
+. Salvar como .xlsx
+. 
+
+Informações salvas:
+. Rua, bairro, tamanho, quartos, vagas, iptu, preços, link, preço/m2
+
+Sites:
+. QuintoAndar (ok)
+. VivaReal
+. Zapimoveis (Codigo praticamente pronto)
+. Netimoveis
+. Loft
+

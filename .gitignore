@@ -1,0 +1,12 @@
+# Ignorar diretório __pycache__
+__pycache__/
+
+# Ignorar ambiente virtual
+myenv/
+
+# Ignorar arquivos Excel
+*.xlsx
+
+# Ignorar o chrome 
+chrome-win64/
+chromedriver-win64/
